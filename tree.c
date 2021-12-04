@@ -6,7 +6,7 @@ struct node {
    struct node *leftChild;
    struct node *rightChild;
 };
-
+//:)
 void insert(int data) { 
    struct node *tempNode = (struct node*) malloc(sizeof(struct node)); 
    
